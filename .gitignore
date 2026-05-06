@@ -1,0 +1,6 @@
+node_modules/
+.next/
+token.txt
+register.js
+getToken.js
+*.txt
