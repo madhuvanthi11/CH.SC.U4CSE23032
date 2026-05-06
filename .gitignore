@@ -1,6 +1,9 @@
 node_modules/
-.next/
+.DS_Store
 token.txt
 register.js
 getToken.js
 *.txt
+.env
+.env.local
+.next/
